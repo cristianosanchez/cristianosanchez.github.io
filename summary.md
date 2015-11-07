@@ -1,4 +1,4 @@
-Overview (TL;DR)
+## Overview (TL;DR)
 
 I really enjoy programming. I mean, coding, developing, make great solutions, hands on project and happy hours with the team. So I consider myself a lucky guy since someone is paying me to do the work I like - the same work I quite often do for fun at home. Free time probably learning a new programming language or sometimes in a crowded IT event (AWS, Ruby, QCON, you name it). Of course, always enjoying my family, homemade pasta drinking some wine, getting up early to 10KM, working hard on circle of fifths so Bill Evans won't come back to tie my hands.
 
